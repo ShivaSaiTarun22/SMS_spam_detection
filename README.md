@@ -1,1 +1,1 @@
-# email_sms_spam_detection
+# SMS_spam_detection
